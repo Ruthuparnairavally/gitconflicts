@@ -1,5 +1,5 @@
 from flask import Flask
-import linux
+import ubuntu
 app = Flask(__name__)
 
 @app.route("/")
